@@ -27,16 +27,22 @@ The workshop is aimed towards new & intermediate level users with some familiari
 Download seismic & well log data from this link and save a local copy.
 Data for fundmentals of numpy, pandas, etc., are in the "Data" folder of this repository.
 
-### Locally on VSCode
-[Link to youtube video for VSCode Setup](http://www.rezlytix.com)
-1. Check local python installation
-2. Install VSCode
-3. Install virtual environment
-4. Launch VSCode and install extensions
-5. Create virtual environment
-6. Get a local copy of data
+### Steps to run locally on VSCode
 
-### Google colab
-[Link to you tube video for Google Colab](http://www.rezlytix.com)
+1. Check local python installation 
+2. Install VSCode [Link to youtube video for VSCode Setup](https://www.youtube.com/watch?v=SYRwSyjD8oI)
+3. Install virtual environment
+4. Launch VSCode and install extensions 
+5. Create virtual environment [Link to youtube video for Virtual Env setup](https://www.youtube.com/watch?v=z2FSUtflnbY)
+6. Get a local copy of data from the link mentioned above
+
+Other useful VS Code installation guides:
+https://www.youtube.com/watch?v=E9U-EBG8jVk
+
+
+### Steps to run on Google colab
+[Link to youtube video for Google Colab setup](https://www.youtube.com/watch?v=PA1WPr0o_DY)
 
 ## Contact for support
+abhimanyu@rezlytix.com
+siddhant@rezlytix.com
