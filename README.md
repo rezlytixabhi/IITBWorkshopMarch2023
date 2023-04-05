@@ -1,6 +1,6 @@
 # Workshop on AI / ML in Geosciences
 
-The workshop is aimied towards new & intermediate level users with some familiarity of python, geosciences and AI / ML tools.
+The workshop is aimed towards new & intermediate level users with some familiarity of python, geosciences and AI / ML tools.
 
 ## Contents
 * 000: About us
