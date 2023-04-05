@@ -12,7 +12,9 @@ The workshop is aimed towards new & intermediate level users with some familiari
 * 003_d: Plotly fundamentals
 * 003_e: XArray fundamentals
 * 004: E&P data: Handling & visualization
-* 005: Seismic Well tie & ML project for well log prediction
+* 005_a: Seismic Well ties 
+* 005_b: ML for well log prediction: Deep Learning
+* 005_c: ML for well log prediction: Shallow Learning
 * 006: Web app basics
 * 007: Dash Web application fundamentals
 * 008: Dash app for ML project
@@ -22,7 +24,8 @@ The workshop is aimed towards new & intermediate level users with some familiari
 ## Getting the Data
 
 [Link to Data on Google Drive](https://drive.google.com/drive/folders/16rCYKklQs-Jt5iVp1Gvfiu25ATz-BQ2D?usp=sharing)
-Download the data from this link and save a local copy.
+Download seismic & well log data from this link and save a local copy.
+Data for fundmentals of numpy, pandas, etc., are in the "Data" folder of this repository.
 
 ### Locally on VSCode
 [Link to youtube video for VSCode Setup](http://www.rezlytix.com)
