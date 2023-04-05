@@ -9,8 +9,8 @@ The workshop is aimed towards new & intermediate level users with some familiari
 * 003_a: Numpy fundamentals
 * 003_b: Pandas fundamentals
 * 003_c: Matplotlib fundamentals
-* 003_d: XArray fundamentals
-* 003_e: Plotly fundamentals
+* 003_d: Plotly fundamentals
+* 003_e: XArray fundamentals
 * 004: E&P data: Handling & visualization
 * 005: Seismic Well tie & ML project for well log prediction
 * 006: Web app basics
