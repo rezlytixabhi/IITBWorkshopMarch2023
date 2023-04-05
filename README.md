@@ -1,2 +1,39 @@
-# IITBWorkshopMarch2023
-AI / ML workshop Notebooks &amp; Data
+# Workshop on AI / ML in Geosciences
+
+The workshop is aimied towards new & intermediate level users with some familiarity of python, geosciences and AI / ML tools.
+
+## Contents
+* 000: About us
+* 001: About the workshop
+* 002: Some coding best practices
+* 003_a: Numpy fundamentals
+* 003_b: Pandas fundamentals
+* 003_c: Matplotlib fundamentals
+* 003_d: XArray fundamentals
+* 003_e: Plotly fundamentals
+* 004: E&P data: Handling & visualization
+* 005: Seismic Well tie & ML project for well log prediction
+* 006: Web app basics
+* 007: Dash Web application fundamentals
+* 008: Dash app for ML project
+
+## How can you run this repository
+
+## Getting the Data
+
+[Link to Data on Google Drive](https://drive.google.com/drive/folders/16rCYKklQs-Jt5iVp1Gvfiu25ATz-BQ2D?usp=sharing)
+Download the data from this link and save a local copy.
+
+### Locally on VSCode
+[Link to youtube video for VSCode Setup](http://www.rezlytix.com)
+1. Check local python installation
+2. Install VSCode
+3. Install virtual environment
+4. Launch VSCode and install extensions
+5. Create virtual environment
+6. Get a local copy of data
+
+### Google colab
+[Link to you tube video for Google Colab](http://www.rezlytix.com)
+
+## Contact for support
